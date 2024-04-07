@@ -1,6 +1,6 @@
  👋
 
-## Olá eu sou Mcihael Santos! 👋
+## Olá eu sou Michael Santos! 👋
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelPI90&layout=compact)
